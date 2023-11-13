@@ -34,7 +34,7 @@ The Task Management Application is a simple web-based tool designed to help user
 
 ## Setup Instructions
 
-1. Clone the repository: `[git clone [repository-url]](https://github.com/Samruddhi6113/TaskManager)`
+1. Clone the repository: https://github.com/Samruddhi6113/TaskManager
 2. Install Node.js and npm if not already installed.
 3. Install project dependencies: `npm install`
 4. Configure the MySQL database by creating a database named `tasksdb` and updating the database connection details in `server.js`.
